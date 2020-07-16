@@ -1,0 +1,50 @@
+{
+  "categories": {
+    "KYC": {
+      "App module": {
+        "application slowness issue": []
+      },
+      "upload issue": {
+        "not able to upload file": [],
+        "photo not uploading": []
+      }
+   
+    },
+    "ISAC": {
+      "id related issues": {
+       "id deleted": [],
+        "id not available": [],
+        "raise a request for id creation": []
+      }
+    
+     
+    },
+    "IMAP": {
+      "mapping related module": {
+        "procedure for mapping": []
+      },
+      "id related issues": {
+        "showing id dormented": []
+      }
+   
+    },
+    "Iapproval": {
+      "upload module": {
+        "cant upload excel file": []
+      },
+      "app module": {
+        "app running slow on ios": []
+        
+      }
+    },
+    "GST": {
+      "money related": {
+        "more money deducted": []
+      },
+      "business related": {
+        "GST for businesses is 18 percent or 28": []
+      }
+       
+    }
+  }
+}
